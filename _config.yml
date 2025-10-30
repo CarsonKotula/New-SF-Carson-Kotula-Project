@@ -25,9 +25,9 @@ title: CollectionBuilder-Sheets
 tagline: a template for creating simple digital exhibits
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "San Francisco."
+description: "Explore the story of San Francisco—a city defined by resilience, creativity, and change. From its founding in 1776 and the Gold Rush boom of 1849, to the rise of tech innovation in Silicon Valley, San Francisco has evolved into a global symbol of opportunity. Its neighborhoods, from Chinatown to the Mission District, reflect a rich blend of cultures that shape the city’s art, cuisine, and music. Follow our interactive timeline to trace key moments like the 1906 earthquake, the Summer of Love in 1967, and the dot-com era, and discover how San Francisco’s diversity and forward-thinking spirit continue to influence both American culture and the world."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Carson Kotula
 
 ##########
 # COLLECTION SETTINGS
